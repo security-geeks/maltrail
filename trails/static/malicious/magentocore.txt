@@ -5719,6 +5719,7 @@ webffx.bz
 
 api-facebook.net
 api-localhost.com
+backstagecontacts.com
 cdn-bootstrapcdn.com
 conect-facebook.net
 core-static.com
@@ -12062,6 +12063,7 @@ kuurza.com
 amulink.click
 asekick.store
 boencon.click
+chosnow.online
 dvatop.quest
 feehner.online
 filtecc.quest
@@ -12086,6 +12088,7 @@ yeinc.store
 cdn.amulink.click
 cdn.asekick.store
 cdn.boencon.click
+cdn.chosnow.online
 cdn.dvatop.quest
 cdn.feehner.online
 cdn.filtecc.quest
@@ -12350,6 +12353,52 @@ web3work.space
 
 naturalcuriosities.com/a.js
 naturalcuriosities.com/obb.js
+
+# Reference: https://x.com/sdcyberresearch/status/1820837819088040000
+# Reference: https://x.com/sdcyberresearch/status/1821167470792638621
+# Reference: https://x.com/sdcyberresearch/status/1821167541818884207
+
+codcraft.shop
+codemingle.shop
+luckycharm.website
+marketexpert.site
+paysysmetrics.com
+pixelsmith.shop
+productpulsehub.com
+salesguru.online
+statistall.com
+statlstic.shop
+statmaster.shop
+vodog.shop
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.110.0%2F24#tab=resolutions
+
+dewoper.click
+kismic.click
+maketech.online
+strodigit.store
+tonamob.quest
+truvit.shop
+cdn.dewoper.click
+cdn.kismic.click
+cdn.maketech.online
+cdn.strodigit.store
+cdn.tonamob.quest
+cdn.truvit.shop
+
+# Reference: https://app.validin.com/detail?type=ip&find=195.242.111.0%2F24#tab=resolutions
+
+helotop.site
+loetec.quest
+cdn.helotop.site
+cdn.loetec.quest
+
+# Reference: https://sansec.io/research/magento-wish-list-exploits
+
+http://69.49.246.122
+a.aa4.in
+purplesunrise.com/2.js
+triconville.com/pub/errors/cr.js
 
 # Generic
 
