@@ -8845,6 +8845,12 @@ gatetodisplaycontent.com
 /yaml-payload99.jar
 /yaml-payload.jar
 
+# Reference: https://x.com/kddx0178318/status/1843659566955016274
+
+/!NB12538z/i40vy0n.php
+/!NB12538z/
+/i40vy0n.php
+
 # Generic
 
 /5c0ca79.php
@@ -8935,7 +8941,6 @@ gatetodisplaycontent.com
 /screenshot_gate.php
 /tgate.php
 /testgate.php
-/test_gate0117.php
 /verification-card.php
 /1drvme/
 /payload/openAttach/
