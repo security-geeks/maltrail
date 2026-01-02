@@ -1150,3 +1150,225 @@ oo.ledgerverifvxy.com
 
 38.69.15.242:443
 microsoftcdnlicense.putinswin.es
+
+# Reference: https://x.com/SquiblydooBlog/status/1950522054362698134
+# Reference: https://www.virustotal.com/gui/file/464b3f10df5c6353b2c84ff3191726de03bcb56642471b0898fb0cb8cffa7fb2/detection
+
+41.216.188.120:8041
+relay.akudown.com
+
+# Reference: https://x.com/abuse_ch/status/1952401259375337589
+# Referecne: https://www.virustotal.com/gui/file/7b609924bfb9edfbc69cd7394ce44d944c75ed62ad72465b2710bd4dc59aabc1/detection
+
+51.89.204.89:8041
+wakilamakila.com
+
+# Reference: https://x.com/marsomx_/status/1956030476625313889
+# Reference: https://www.virustotal.com/gui/file/6eb97a0f7fe52f2cd9bdf02b5c0858c17e66c69d7d3cebf093c8e024366fe141/detection
+
+144.172.103.247:8041
+relay.year000001.com
+
+# Reference: https://x.com/JAMESWT_WT/status/1960283809477243216
+# Reference: https://www.virustotal.com/gui/file/12d3504f377f673e1f5650ade99c0ebcf9b0af507c96f139f9348867f26b61a2/detection
+
+94.154.173.175:8041
+e-statement.estate
+download.e-statement.estate
+
+# Reference: https://x.com/JAMESWT_WT/status/1960283809477243216
+# Reference: https://www.virustotal.com/gui/file/365ca650741c3cf589edee90743c0735624cd9c3c20d80a864857333e389c605/detection
+
+208.91.189.188:8041
+service.e-statement.estate
+
+# Reference: https://x.com/JAMESWT_WT/status/1960283809477243216
+# Reference: https://www.virustotal.com/gui/file/aae9aeae9cad1d3f39698f3e63f06ea1158d59ba9d076ce82591b21600ee91c3/detection
+
+45.94.31.249:8041
+innocreed.com
+hn-sec.innocreed.com
+
+# Reference: https://www.virustotal.com/gui/file/0039dacefc20c81307960be130a21ea92996fa88b2fa4a65096125c7192af51d/detection
+
+157.173.114.46:8041
+assets.innocreed.com
+
+# Reference: https://x.com/JAMESWT_WT/status/1960283809477243216
+# Reference: https://www.virustotal.com/gui/file/31a07098bfe39478c80d7df9962f2948056686b48f4cc4051b56328fe8a06785/detection
+
+45.81.23.155:8041
+bmw320ikaka.co
+
+# Reference: https://www.virustotal.com/gui/file/0d2145930215e9e276f5aa663fd85c265e38f3fa7a9a103c625075c1e5263c30/detection
+
+2.58.56.163:8041
+vtsec.innocreed.com
+
+# Reference: https://x.com/FalconFeedsio/status/1962824775765762514
+# Reference: https://www.virustotal.com/gui/file/958d5af9ea6c928fd608b22254de9acc143cdedd2b3e6cc0c5299c5336e71ec4/detection
+# Reference: https://www.virustotal.com/gui/file/87665069462eb9d819154f6e8d818cfce6eb3b70245e4a1e84dce3441913e837/detection
+
+bfvfuausfo.me
+wmjlive.top
+
+# Reference: https://levelblue.com/blogs/security-essentials/asyncrat-in-action-fileless-malware-techniques-and-analysis-of-a-remote-access-trojan
+# Reference: https://www.virustotal.com/gui/file/09f15a6d9e38e5dc99e3b5787d09a1b2c8b7dc042562935b49250083a9d00ac5/detection
+
+shipperzone.online
+relay.shipperzone.online
+
+# Reference: https://hunt.io/blog/asyncrat-screenconnect-open-directory-campaigns
+# Reference: https://www.virustotal.com/gui/file/082f2e0b5bfef1475e5dcf7c4df132da0842dd452bc5b1a82c13a3d714d89f6f/detection
+
+uniupdate.net
+vdpanxxs.top
+vixgstxpnl.top
+dp.vdpanxxs.top
+sc.vdpanxxs.top
+galusa.ac.mz
+verify.uniupdate.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.43.11.138/relations
+
+45.43.11.138:443
+arise-angles.live
+simplyvisual.top
+techscript.support
+
+# Reference: https://x.com/JAMESWT_WT/status/1980880531568099818
+# Reference: https://www.virustotal.com/gui/file/1aeca54be00400bcff6c3259c3acde1e3142e9cc8f4be4fef352b70c90bdc27f/detection
+# Reference: https://www.virustotal.com/gui/file/6342a6b2c991d7953d24c2787fcfc63cc00b120d235abd700aecdf11b0fe0b73/detection
+# Reference: https://www.virustotal.com/gui/file/75010da01904bbd5f99c6907389138c81d2cd3963a3b966ff1ff806497e96195/detection
+# Reference: https://www.virustotal.com/gui/file/b5ac2e3e22480fdfb4268d17120be6d45e146e90a55997edf62fc15a60118105/detection
+# Reference: https://www.virustotal.com/gui/file/ca052718653d9e29e76650670c61a17290b9641041e22e433548068b2244c841/detection
+
+207.231.111.45:8041
+maxpanel.duckdns.org
+
+# Reference: https://x.com/SquiblydooBlog/status/1982168217083863470
+# Reference: https://www.virustotal.com/gui/ip-address/193.111.117.195/relations
+# Reference: https://www.virustotal.com/gui/file/41849f9995d6ee46154e2b3ad48c64546c14de8e47930819335893c319ea3dab/detection
+
+193.111.117.195:443
+193.111.117.195:8041
+nwrstghbwrtjynrsfghberth.com
+ubdfvugite.com
+
+# Reference: https://x.com/smica83/status/1984606107503886704
+# Reference: https://tria.ge/251101-p7r9padk4y/behavioral2
+# Reference: https://www.virustotal.com/gui/file/5645151f65cec6b95a67885cd35e2edaa473ea3bca9d676ab178c7822731cad2/detection
+
+instance-wipwm8-relay.screenconnect.com
+server-ovh30010035-relay.screenconnect.com
+
+# Reference: https://x.com/1ZRR4H/status/1986185679794028637
+# Reference: https://www.virustotal.com/gui/file/26fbda92490b8ab92a28b709b11b31361266714200fa8954f91bb0bbc96e9c2a/detection
+
+51.89.107.107:8041
+ip107.ip-51-89-107.eu
+
+# Reference: https://x.com/smica83/status/1991410477013037241
+# Reference: https://www.virustotal.com/gui/file/4445986136de12d6617252db732eae62145a1ef0db5f42e28f687b8d472924cf/detection
+# Reference: https://www.virustotal.com/gui/file/a316d5310f1e5f12415b740ce2c7e3988635f404a451716a9a85cf7ba93684aa/detection
+# Reference: https://www.virustotal.com/gui/file/fc7ee0a9cffabfd03e1b972bcbfd4504289482f86c83c391165ebe5253995ef9/detection
+
+176.123.6.71:8041
+statcom.top
+
+# Reference: https://x.com/smica83/status/1991800711882093034
+# Reference: https://www.virustotal.com/gui/file/be22baf679b34a7ddbcbe6662ff42d70a667ce99b2792f2c715d91071309d069/detection
+
+45.128.156.14:443
+45.128.156.14:8041
+rguinuzmikolo.top
+app.rguinuzmikolo.top
+relays.rguinuzmikolo.top
+
+# Reference: https://x.com/malwrhunterteam/status/1993266143763526057
+# Reference: https://www.virustotal.com/gui/file/65e757f977a7f5b2a6d824070c932ba1f753f01d1f46d8786a81a82b7389b6fb/detection
+
+instance-tm2rc3-relay.screenconnect.com
+
+# Reference: https://x.com/malwrhunterteam/status/1993302815943671892
+# Reference: https://www.virustotal.com/gui/file/c6214f4dc0a9b76c89f0512a992a41d4f04235dbdba2534fc66bf435c3861a20/detection
+# BANNER_0_HASH-HOST=9186f78ba72e1f311406a32d68fa0023
+
+38.224.19.33:8041
+66.92.205.34:8041
+66.92.205.35:8041
+cvzsr.com
+encve.com
+vencw.com
+
+# Reference: https://x.com/SquiblydooBlog/status/1993295702819324061
+# Reference: https://www.virustotal.com/gui/file/000f7db3f2ecd050e9c9901482c650e69463b26ee91c82843f376d640a5846c7/detection
+
+95.214.234.238:8041
+edgeserv.ru
+
+# Reference: https://x.com/smica83/status/1994727602272309588
+# Reference: https://tria.ge/251129-ndtd8atnfx/behavioral1
+
+124.198.132.55:8041
+memphiswave.com
+
+# Reference: https://x.com/malwrhunterteam/status/2000655687542788103
+# Reference: https://www.virustotal.com/gui/file/88bcc4eacf3c0dd26c57dfdd42da085eeff0bcc4c1106eceeba466c0a05fc1e5/detection
+
+server-ovh60010005-relay.screenconnect.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.168.101.197/relations
+
+connecragnar.ink
+cloud.connecragnar.ink
+
+# Reference: https://www.virustotal.com/gui/file/8f7d1d641f3508548f23c787f105fa5729d89ca42f782f723b077ea897850f27/detection
+
+80.76.49.114:8041
+basb24ao.anondns.net
+
+# Reference: https://www.virustotal.com/gui/file/aaf8502a78c6fc6951a3dad2ab8d5dc7667628be8336bc6b347abc3cf5516866/detection
+# Reference: https://www.virustotal.com/gui/file/d165b940a903c63a6a40144a8a34b10943c993f1b2ec3d8a446ffe17b3910229/detection
+
+80.76.49.228:8041
+asgqt215af.anondns.net
+
+# Reference: https://x.com/smica83/status/2001319044218040686
+# Reference: https://tria.ge/251217-s9e9paaw4h/behavioral1
+
+instance-yahsai-relay.screenconnect.com
+
+# Reference: https://x.com/smica83/status/2001781643497894249
+# Reference: https://www.virustotal.com/gui/file/86b6f0171e9e3066125b1ae6abd6828f2079d580abe1c66234106ddac34aa031/detection
+
+instance-cuom2j-relay.screenconnect.com
+server-ovh30020022-relay.screenconnect.com
+
+# Reference: https://x.com/smica83/status/2001782695295148033
+# Reference: https://www.virustotal.com/gui/file/5bef26a1c44b66822f117dbb04039b34a89ff42deb36ef635fff0125040fdfdc/detection
+
+instance-mxhqh7-relay.screenconnect.com
+
+# Reference: https://x.com/smica83/status/2002141293237903528
+# Reference: https://www.virustotal.com/gui/file/5e544cd08e23402bd10a42c84b6f983dd8f36ba7b3e1104cd0723800284962d8/detection
+
+instance-jg2pse-relay.screenconnect.com
+server-ovh60020005-relay.screenconnect.com
+
+# Reference: https://x.com/smica83/status/2002152723769405593
+# Reference: https://www.virustotal.com/gui/file/3da0a6b6cb58e7d449419156633a5dd0c287d23587bfee1df02614212c868e23/detection
+
+instance-mw4jg8-relay.screenconnect.com
+server-ovh60010015-relay.screenconnect.com
+
+# Reference: https://x.com/struppigel/status/2005892030291906776
+# Reference: https://www.virustotal.com/gui/file/30b2dfb2c78e215427b67e565924b9ada40e1736615cb74e2e88518c625518e2/detection
+
+185.254.97.249:8041
+pingserv.pro
+
+# Reference: https://www.virustotal.com/gui/file/67a0d22de4ce8a83cc7601bd70fbd8056742d10cd01c32b2558dc5fb64d18752/detection
+
+45.145.41.205:8041
+winservec.net

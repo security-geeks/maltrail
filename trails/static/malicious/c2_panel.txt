@@ -953,6 +953,56 @@ http://35.234.172.162
 http://51.210.151.63
 http://54.175.184.74
 
+# Reference: https://www.virustotal.com/gui/file/1265745ab3319faea343b0eebb9f90cf73b916199bc013359053e28f47365dfb/detection
+
+/pico/Panel/gate.php
+
+# Reference: https://x.com/banthisguy9349/status/1982456332436246721
+
+109.107.168.72:8888
+141.255.161.122:8888
+178.16.54.144:8888
+179.43.167.210:8888
+179.43.190.98:8888
+185.208.158.190:8888
+185.208.158.78:8888
+193.24.123.97:8888
+195.3.221.137:8888
+195.3.221.166:8888
+196.251.86.254:8888
+45.141.84.229:8888
+65.108.141.82:8888
+65.108.233.15:8888
+66.90.86.58:8888
+88.210.63.164:8888
+91.219.239.144:8888
+91.219.239.165:8888
+91.92.241.27:8888
+92.118.112.33:8888
+
+# Reference: https://x.com/L0Psec/status/1991910497663562045
+# LOCATION-HOST/IP=/login?origin_page=/
+
+http://43.156.244.245
+http://54.92.96.88
+crystalnut.xyz
+app.mexc.work
+/login?origin_page=/
+
+# Reference: https://x.com/malwrhunterteam/status/1996262074637263176
+# Reference: https://app.validin.com/detail?find=Login%20-%20Control%20Center&type=raw&ref_id=adec5ae6379#tab=host_pairs (# 2025-12-03)
+
+http://151.243.109.125
+65.21.51.253:8080
+tracethem.xyz
+trackthem.xyz
+
+# Reference: https://x.com/Fact_Finder03/status/2005946833768489036
+
+http://64.188.79.45
+64.188.79.45:443
+voxpanel.vu
+
 # Generic
 
 /admin_123/auth.php

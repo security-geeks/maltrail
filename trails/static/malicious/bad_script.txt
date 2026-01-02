@@ -3298,10 +3298,6 @@ tunacan-812.tk
 /salem123aas.php
 /admin/config.php?password%5B0%5D=Inje3t0r3-Seraj
 
-# Reference: https://twitter.com/abel1ma/status/1324477543001415680
-
-/f.php#～
-
 # Reference: https://www.virustotal.com/gui/file/33a7196538a17da13cc67b31162c14d0f3f473816b98f75f01709eda2b1464a7/detection
 
 /power.php?getserver=
@@ -8885,6 +8881,282 @@ zenlio.weebly.com
 /windowsupdateservice.ps1
 /windowsupdateservice.vbs
 
+# Reference: https://x.com/BlinkzSec/status/1950561656867582300
+# Reference: https://x.com/JAMESWT_WT/status/1950594741705355436
+# Reference: https://urlhaus.abuse.ch/url/3593127/
+
+/js/GYnHx.js
+/js/yO5EW.js
+/GYnHx.js
+/yO5EW.js
+
+# Reference: https://x.com/BlinkzSec/status/1954200067339882732
+# Reference: https://urlhaus.abuse.ch/host/162.248.53.119/
+
+/c2-callback
+/enable-rdp.ps1
+/port-check.ps1
+/rev-shell.ps1
+
+# Reference: https://x.com/BlinkzSec/status/1954963598205391364
+# Reference: https://urlhaus.abuse.ch/host/files.catbox.moe/ (# 2025-08-11)
+
+/17wzez.ps1
+/1nl3hc.ps1
+/1y70f1.ps1
+/2cy9wa.ps1
+/2y6fw1.ps1
+/3gor9i.ps1
+/3yb2zi.ps1
+/45qt92.ps1
+/4tzo43.ps1
+/79wgg6.ps1
+/8yh3e3.ps1
+/9gat3x.ps1
+/9rj9f3.ps1
+/b06gt5.ps1
+/b1uf2z.ps1
+/cia7id.ps1
+/d9bi50.ps1
+/ei5hyq.ps1
+/et18ob.ps1
+/fz2xmo.ps1
+/g49vy4.ps1
+/g8wt4y.ps1
+/gd3nrr.ps1
+/izoft0.ps1
+/kj00kw.ps1
+/kl0sz4.ps1
+/km5328.ps1
+/kx005t.ps1
+/l11se7.ps1
+/l18oc0.ps1
+/lrdj3s.ps1
+/m5ixin.ps1
+/ne9m5w.ps1
+/ntm9ag.ps1
+/q8ynky.ps1
+/qivmzx.ps1
+/qjv06a.ps1
+/qqlgou.ps1
+/qrz18p.ps1
+/r8qjpc.ps1
+/sobl4d.ps1
+/tt6634.ps1
+/ugok5m.ps1
+/v0y9uq.ps1
+/vj11kv.ps1
+/vqhzwh.ps1
+/x5swnw.ps1
+/x75eie.ps1
+/yfz4t5.ps1
+/yoomcy.ps1
+/yr53yk.ps1
+
+# reference: https://securityaffairs.com/181203/cyber-crime/encrypthub-abuses-brave-support-in-new-campaign-exploiting-msc-eviltwin-flaw.html
+
+/payload/build.hta
+/payload/build.ps1
+/payload/shell.hta
+/payload/shell.ps1
+
+# Reference: https://app.validin.com/detail?find=wesrdx345.js&type=dom&ref_id=5ce92182d9c#tab=host_pairs (# 2025-08-22)
+
+/wesrdx345.js
+
+# Reference: https://x.com/Merlax_/status/1960048599678493033
+
+/3g2bzgrevl.hta
+
+# Reference: https://www.virustotal.com/gui/file/337d8eaca7f3fbb8694dbb907568888e44e53ef83e25ffa2dd3ea676cf8cf0d3/detection
+
+/3e2w.js
+
+# Reference: https://x.com/smica83/status/1961156187396681852
+# Reference: https://tria.ge/250828-xwr4jsynx9/behavioral1
+
+/DpwObgL52/DpwObgL52mde2/HRaHaIW943.js
+/DpwObgL52/DpwObgL52mde2/
+/DpwObgL52/
+/DpwObgL52mde2/HRaHaIW943.js
+/DpwObgL52mde2/
+/HRaHaIW943.js
+
+# Reference: https://x.com/Slvlombardo/status/1958426095075623270
+
+/aemmfcylvxeo.html
+
+# Reference: https://x.com/ShadowOpCode/status/1962877818162843854
+
+/generate?payload=
+
+# Reference: https://www.malware-traffic-analysis.net/2025/09/03/index.html
+
+/4r2w.js
+
+# Reference: https://x.com/malwrhunterteam/status/1964034069894754812
+# Reference: https://www.virustotal.com/gui/file/84f34f24a7f7852ac1c5e99ec3de6e215138d7b8a39514963dc6596945b105d8/detection
+
+/ololo.aspx
+
+# Reference: https://www.virustotal.com/gui/file/c3f451354de6fe675f1c756733208fc6739ebb3603449b68a1c41419d952944b/detection
+
+/verygreatwaygtogivebestnoticingoptional.hta
+
+# Reference: https://x.com/GenThreatLabs/status/1976295017527308757
+
+/mc55tP.ps1
+
+# Reference: https://x.com/smica83/status/1978771256762606024
+
+/stage0.ps1
+
+# Reference: https://x.com/smica83/status/1978880380187938929
+# Reference: https://www.virustotal.com/gui/file/84f6f3a7c219b94c9689601a4b179880b12d661f38456f38f3b4e197566855f2/detection
+# Reference: https://www.virustotal.com/gui/file/b67fb83392e59d2c62ba606c44cfaa9141d98bd7fed7028539b5ea70cc24ed87/detection
+# Reference: https://www.virustotal.com/gui/file/cc5366e31fdaaad3fda3936f9ba67fce2e9c38f34c0607bea1a3855189edd4c0/detection
+
+/crajja/mask.ps1
+/crajja/weeder.ps1
+/k2a1a/mask.ps1
+/k2a1a/weeder.ps1
+
+# Reference: https://x.com/smica83/status/1978017659720532478
+# Reference: https://www.virustotal.com/gui/file/42f2626005f1e359d33861b55b62681f52274e02283279fcc3e54be3ee52ffa3/detection
+
+/dcfx8eu84759rt48dfgdf8734jhj535h458dfg87834jrh3458fdg834tret3tbfdg8344385fd.hta
+
+# Reference: https://www.virustotal.com/gui/file/45861cfb823fb2a2d59f697e13623934c635fc8bceb9af5f282343fd224dfab2/detection
+
+/sc9ddc73jjhfjsh8cxs0d9xc23hjhj5j6jhj8bh876hfdf90gd900vb90brt90t0yr09asd03sfd0f0sd.hta
+/sc9ddc73jjhfjsh8cxs0d9xc23hjhj5j6jhj8bh876hfdf90gd900vb90brt90t0yr09asd03sfd0f0sd.txt
+
+# Reference: https://x.com/JAMESWT_WT/status/1978708045355000118
+
+/hip9k0.ps1
+/iy1e0o.ps1
+
+# Reference: https://x.com/DefusedCyber/status/1981040364053033095
+
+d3sf0irfhr5o320gc8s0di1mkfokc8i7a.oast.me
+
+# Reference: https://x.com/JustWantToQ1/status/1983248971175776338
+
+/edifhjwe.ps1
+/gygu.ps1
+/minimiza.ps1
+/probando.ps1
+
+# Reference: https://x.com/smica83/status/1983569768285151337
+# Reference: https://x.com/JAMESWT_WT/status/1983836794472034357
+# Reference: https://www.virustotal.com/gui/file/00a560e18e85d51aeb0b0b93b36757a73cf6da811dd36541f9c7bb5f287254fb/detection
+
+/dadaasads_new.ps1
+
+# Reference: https://x.com/BlinkzSec/status/1984562610772087157
+
+/zalupa.ps1
+
+# Reference: https://x.com/smica83/status/1985032767365849598
+# Reference: https://www.virustotal.com/gui/file/c011f71a30177b61fd2d4bfce7057ef3f3c3b9e455f0eda2789d563a7a548d2b/detection
+# Reference: https://www.virustotal.com/gui/file/ff2dc7d90d6da16ea6d0692faa911017a60ea67935e9235bf06a43c0f1e89951/detection
+
+/sss04n111k/
+/sss04n111k/draft.ps1
+/wipyck/chiffonierfencing.ps1
+/chiffonierfencing.ps1
+
+# Reference: https://x.com/smica83/status/1987534242155262045
+# Reference: # Reference: https://tria.ge/251109-r7rdhafj41/behavioral1
+
+/kaleb.ps1
+
+# Reference: https://www.virustotal.com/gui/file/95f2de6e59c3c8143dc33ea94f58b466862d45f96cb818a0c89e2a7a55cc2026/detection
+# Reference: https://www.virustotal.com/gui/file/cb5e19f593f1a08ef2077adcf1624d0c0f26410ad4bcc803be7ec8970709c029/detection
+# Reference: https://www.virustotal.com/gui/file/cd9dd04fdff36c8e81afd446653e19d2c68360714376f7128fc731744927ea68/detection
+
+/tracekitten.ps1
+
+# Reference: https://x.com/smica83/status/1993759792184057927
+# Reference: https://www.virustotal.com/gui/file/11c4b0b31bd4d6a34d6c558c66b77b96f3a89125910623d9642e9f5f942c320e/detection
+
+/krajj4/foldstring.ps1
+/foldstring.ps1
+
+# Reference: https://x.com/smica83/status/1993761123967905932
+# Reference: https://www.virustotal.com/gui/file/2fcfbc1f258d5762cfcf5f72623ccf631babadcc5a99e2220f1850082d96b4ba/detection
+
+/kacc/charddigger.ps1
+/kacc/hordededuce.ps1
+/kacc/mendvoyage.ps1
+/charddigger.ps1
+/hordededuce.ps1
+/mendvoyage.ps1
+
+# Reference: https://x.com/BlinkzSec/status/1994741640746184809
+
+/romulo.hta
+
+# Reference: https://x.com/malwrhunterteam/status/1995476199141683295
+# Reference: https://www.virustotal.com/gui/file/3b564199cb0c34fcdc8e990328ca4697d5e1273af40ffae6a7ba7aef12b4d72a/detection
+
+/botnet_poll
+/botnet_shell_data
+/botnet_shell_poll
+
+# Reference: https://x.com/malwrhunterteam/status/1996266810375610370
+# Reference: https://www.virustotal.com/gui/file/fb7c17c2fa0a0edaee8e87f42895485c9202fbbb2c4ac663ff876523e05125ad/detection
+
+/payload/c2_3.enc
+/payload/main.enc
+/payloads/c2_3.enc
+/payloads/main.enc
+/api/payload/config
+/api/payloads/config
+
+# Reference: https://x.com/mrglwglwgl/status/1997808192555032723
+# Reference: https://x.com/fbgwls245/status/1998322159672783211
+# Reference: https://www.virustotal.com/gui/file/613d4d0f1612686742889e834ebc9ebff6ae021cf81a4c50f66369195ca01899/detection
+# Reference: https://www.virustotal.com/gui/file/6e93d63053f03a1309628fdb267b45a30f81ebfdd1334b477697f5654ba7e9d5/detection
+
+/c2/beacon.php
+
+# Reference: https://x.com/1ZRR4H/status/1998460199321862235
+
+/cve-2025-55182.yaml
+
+# Reference: https://x.com/smica83/status/1998729536230281458
+# Reference: https://www.virustotal.com/gui/file/908350ecfed89b9cff83be0c4789b47b0bd145a5e9ebf117dc535a0e787e5f48/detection
+
+/alpacafloor.ps1
+/dzgn/alpacafloor.ps1
+
+# Reference: https://x.com/BlinkzSec/status/2000883981982507391
+
+/obfuscate-vba.py
+/xor-payload.py
+
+# Reference: https://x.com/smica83/status/2002493152641585438
+# Reference: # Reference: https://www.virustotal.com/gui/file/414db44b4d9fb12d73498677d31432496508b29ddc68288816316e298968e641/detection
+
+/zo4nik/controversysit.ps1
+/zo4nik/dumprip.ps1
+/zo4nik/examplemusic-making.ps1
+/zo4nik/oxygensmoke.ps1
+/controversysit.ps1
+/dumprip.ps1
+/examplemusic-making.ps1
+/oxygensmoke.ps1
+
+# Reference: https://x.com/smica83/status/2002494238450384923
+# Reference: https://www.virustotal.com/gui/file/274407caf5f51c9f2d39d593b3de75aaf09953df1fd67fe1d6503a4cb2c996c0/detection
+# Reference: https://www.virustotal.com/gui/file/bc1fa32164ea48f4b0a0bf0f614887b9bd642ca1c5c783f6c1bc1e4425617766/detection
+
+/kraja/hailzampone.ps1
+/kraja/landformbrowsing.ps1
+/hailzampone.ps1
+/landformbrowsing.ps1
+
 # Generic
 
 /5c0ca79.php
@@ -8952,6 +9224,7 @@ zenlio.weebly.com
 /DllQueVaiNoClient.py
 /DllQueVaiNoClient.pyc
 /dating-verification-card.php
+/encrypted_shellcode.txt
 /evreigate.php
 /exploit.py
 /fcc-authenticazione.php
@@ -8979,6 +9252,7 @@ zenlio.weebly.com
 /screenshot_gate.php
 /shell.hta
 /shell2.php
+/shellcode_test.txt
 /tgate.php
 /testgate.php
 /verification-card.php

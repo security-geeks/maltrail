@@ -3768,3 +3768,71 @@ ddnss.ch
 # Reference: https://www.virustotal.com/gui/domain/mydns.bz/relations
 
 mydns.bz
+
+# Reference: https://www.virustotal.com/gui/domain/live-on.net/relations
+
+live-on.net
+
+# Reference: https://www.virustotal.com/gui/domain/server-on.net/relations
+
+server-on.net
+
+# Reference: https://www.virustotal.com/gui/domain/keyword-on.net/relations
+
+keyword-on.net
+
+# Reference: https://www.virustotal.com/gui/domain/duckdns.com/relations
+
+duckdns.com
+
+# Reference: https://www.virustotal.com/gui/domain/mydns.tw/relations
+
+mydns.tw
+
+# Reference: https://www.virustotal.com/gui/domain/1cooldns.com/relations
+
+1cooldns.com
+
+# Reference: https://www.virustotal.com/gui/domain/minecraft.pe/relations
+
+minecraft.pe
+
+# Reference: https://www.virustotal.com/gui/domain/youpc.ro/relations
+
+youpc.ro
+
+# Reference: https://www.virustotal.com/gui/domain/apps.dj/relations
+
+apps.dj
+
+# Reference: https://www.virustotal.com/gui/domain/pakasak.com/relations
+
+pakasak.com
+
+# Reference: https://www.virustotal.com/gui/domain/dapit.net/relations
+
+dapit.net
+
+# Reference: https://www.virustotal.com/gui/domain/govt.hu/relations
+
+govt.hu
+
+# Reference: https://www.virustotal.com/gui/domain/gurdit.com/relations
+
+gurdit.com
+
+# Reference: https://www.virustotal.com/gui/domain/is-a-good.dev/relations
+
+is-a-good.dev
+
+# Reference: https://www.virustotal.com/gui/domain/mydns.vc/relations
+
+mydns.vc
+
+# Reference: https://www.virustotal.com/gui/domain/fpr.net/relations
+
+fpr.net
+
+# Reference: https://www.virustotal.com/gui/domain/abrdns.com/relations
+
+abrdns.com

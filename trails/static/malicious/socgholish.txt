@@ -5148,6 +5148,45 @@ m.cpa2go.com
 
 184.162.20.43:443
 
+# Reference: https://x.com/YungBinary/status/1951306227562033354
+# Reference: https://www.virustotal.com/gui/ip-address/45.56.162.61/relations
+# Reference: https://www.esentire.com/blog/unpacking-shadowcoils-ransomhub-ex-affiliate-credential-harvesting-tool
+# Reference: https://github.com/eSentire/iocs/blob/main/ShadowCoil/ShadowCoil-IoCs-07-24-2025.txt
+
+app.novationseo.com
+
+# Reference: https://www.silentpush.com/blog/socgholish/
+
+cp.envisionfonddulac.biz
+docs.nynovation.com
+download.romeropizza.com
+images.therunningink.com
+mgmt.studerandson.us
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-06-30-v10960/2860
+
+sample.tcroadgear.com
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-07-01-v10961/2863
+
+cpanel.thekooljack.com
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-90day.csv (# 2025-10-05)
+
+184.162.20.200:443
+46.137.225.200:443
+
+# Reference: https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/refs/heads/master/feeds/unverified/IPPortC2s-90day.csv (# 2025-11-08)
+
+157.112.78.134:443
+
+# Reference: https://arcticwolf.com/resources/blog/romcom-utilizing-socgholish-to-deliver-mythic-agent-to-usa-companies-supporting-ukraine/
+
+157.254.167.144:443
+2.59.161.132:443
+smashingboss.com
+email.smashingboss.com
+
 # Generic
 
 /Chrome.Quick.Update.ver.101.65.65282.js

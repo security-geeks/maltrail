@@ -1160,3 +1160,10 @@ podathon.org/shell/
 /_layouts/15/spinstall0.aspx
 /spinstall0.aspx
 /spinstallp.aspx
+
+# Reference: https://x.com/blackorbird/status/1992075483836744154
+# Reference: https://dti.domaintools.com/threat-intelligence-report-apt35-internal-leak-of-hacking-campaigns-against-lebanon-kuwait-turkey-saudi-arabia-korea-and-domestic-iranian-targets/
+
+/m0s.aspx
+/m0s.php
+/m0s.phto

@@ -7480,6 +7480,8 @@ hxint.pics
 hxjet.pics
 hxkit.pics
 hxlot.pics
+hxmax.pics
+hxnop.pics
 indid.buzz
 internl.xyz
 intrst.sbs
@@ -11390,6 +11392,7 @@ soacabamentos.com
 ssl-google-analytics.com
 statefiarm.com
 static1-jquery.com
+static11-jquery.com
 static2-jquery.com
 static3-jquery.com
 static4-jquery.com
@@ -11406,6 +11409,8 @@ cdn.jquery.host
 controls.wpenginepowered.com
 ns1.cloudflare-js5.com
 ns2.cloudflare-js5.com
+ns1.static11-jquery.com
+ns2.static11-jquery.com
 ns1.static5-jquery.com
 ns1.static6-jquery.com
 ns2.static5-jquery.com
@@ -11691,6 +11696,7 @@ mail.olimpsport.org
 static.store-content.com
 
 # Reference: https://x.com/sdcyberresearch/status/1792485034068185295
+# Reference: https://x.com/sdcyberresearch/status/1959983743239676217
 # Reference: https://www.virustotal.com/gui/ip-address/5.188.86.230/relations
 # Reference: https://app.validin.com/detail?find=d6b2747cc7a010c50b34119e9c98947e&type=hash&ref_id=71d565febed#tab=host_pairs (# 2025-02-19)
 # Reference: https://app.validin.com/detail?find=179.60.147.85&type=ip4&ref_id=b8cf6bcc858#tab=resolutions (# 2025-02-19)
@@ -11703,6 +11709,7 @@ lgstd.io
 lgstd.net
 logstash.in
 logstorage.in
+pubanalytics.net
 sitegateproxy.net
 siteimproveanalytic.net
 siteimproveanalytics.net
@@ -13039,67 +13046,119 @@ jgueurystatic.xyz
 8urls.info
 9analytics.ink
 9circle.today
+advsto.store
 alfabe.club
 analytz.info
 antiqshp.work
+ashops.cc
 beautymania.tattoo
+betam.app
+bishop.help
 brinder.wiki
 builder.motorcycles
+bybeby.bio
+ccdiq.pro
+cdccom.vip
 celimax.digital
 coworkin.art
 crowdspace.shop
+dccome.app
 directs.bond
 discoveryrover.info
 dofabrics.asia
 dolsstores.blog
 doorsandwindowsuk.store
+dorei.website
+eciccom.name
+ecocoe.info
 enrgy.cam
 esst.cc
 fastn.best
+fatno.tech
+ferrix.shop
 fieldmans.fit
+fixr.pics
 gigatag.info
 grossbar.shop
 gsmsa.pro
+h5.opshop.cc
+habcd.cc
 histat.top
 humn.pro
 ibmpc.cc
 itracking.autos
+jackst.site
+jetex.pics
 jetstat.info
 jfkai.live
+kcjosef.fun
 keytag.rest
 kfcd.site
+koloco.name
+lipo.wtf
 livedirect.my
+lonefrst.today
+megastat.shop
 metamanager.shop
+ministat.shop
+monstr.cv
+musmash.one
 nextai.cam
+nmesame.vip
+nops.asia
+oooopsid.click
 openc.shop
 openmonitor.rest
 openstat.cc
+opshop.cc
+postds.one
 protostat.lat
+pshp.live
+qrapp.asia
 quicktag.wiki
 realstat.today
+resultip.cc
+rmark.lat
+spendless.guru
 statmasters.shop
 supertag.info
 tagsanalytics.shop
 tagscart.shop
 tagsmanager.shop
 tagspot.store
+terap.app
 ultrabit.shop
 ultrabyte.shop
 ultracart.shop
 ultramain.shop
+ultramesh.shop
+ultranite.shop
 ultrasys.shop
 uniquemask.homes
+unis.my
 vectors.guru
+vset.life
 vspec.info
+vsys.digital
+vtag.world
+vtags.life
+vtasks.shop
 vtec.live
+vvwv.dev
 webstat.help
 wikistat.wiki
+wwwi.click
+xpertbit.shop
 xtras.work
 xtreme.boats
+xztv.me
+yamis.bio
+yesok.life
 yestat.website
 yesyes.rest
 zend.quest
 zerotag.cc
+zivert.top
 
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-09-02-v10679/1932
 
@@ -13618,9 +13677,11 @@ sentry.cdn-core.com
 zb.cdn-core.com
 
 # Reference: https://x.com/sdcyberresearch/status/1845777289151136039
+# Reference: https://x.com/sdcyberresearch/status/1982754972497502340
 # Reference: https://www.virustotal.com/gui/ip-address/5.10.250.250/relations
 
 gstatlc.org
+jqeury.net
 ssl.gstatlc.org
 
 # Reference: https://sansec.io/research/cosmicsting#group-peschanki%3A-automated-mass-cms-block-updates
@@ -13742,32 +13803,41 @@ admatrixclick.com
 adpulsetop.com
 advertiqs.com
 analytishub.com
+analyzrvisual.com
 artifyau.com
 brandiffy.com
 brandmynxt.com
 brandoraup.com
+canevaslab.com
 chartmyiq.com
 chartproset.com
 codeslucky.com
 countifyhub.com
+crafftedhub.com
 crafttrendly.com
 creatisup.com
 creatowebhub.com
 cssiwave.com
+datafwd.sbs
 datageen.com
 datamazehub.com
 datavibers.com
 designiohub.com
 designlfy.com
+dessignslab.com
 desynity.com
 desynmax.com
+dndworksstat.com
+drieventrend.com
 dsgnflux.com
 dsgnpit.com
+dsgnv.store
 fittjamatmarknad.se
 geniushubplus.com
 graphlycool.com
 graphwebpad.com
 happystrend.com
+inisightvision.com
 letcc.tk
 letzz.cf
 luckydealls.com
@@ -13778,13 +13848,16 @@ marketon360.com
 marketxxx.com
 marketzeen.com
 marteton360.com
+metricksstat.com
 metricsyapp.com
 mktgle.com
 mktloope.com
 mktvibe.com
+mktwiz.fun
 pixeloramy.com
 pixelprosstudio.com
 quantifymy.com
+qwickdns.com
 salesflowe.com
 salesuplab.com
 saveanon.com
@@ -13800,6 +13873,7 @@ statenova.com
 statgennius.com
 statibuzz.com
 staticvisionary.com
+statixlab.com
 statnxt.com
 statsalles.com
 stylifyhub.com
@@ -13808,6 +13882,7 @@ thejupitersystems.com
 trasoltng.com
 trendifymy.com
 trendisall.com
+trendisnet.com
 trendkeed.com
 trendlab360.com
 trendlq.com
@@ -14163,6 +14238,7 @@ sellboosti.com
 statsalesup.com
 
 # Reference: https://x.com/sdcyberresearch/status/1868974963274973325
+# Reference: https://x.com/sdcyberresearch/status/1990363294545432712
 # Reference: https://www.virustotal.com/gui/ip-address/45.61.132.99/relations
 # Reference: https://app.validin.com/detail?find=193.43.134.191&type=ip4&ref_id=381fecf60a2#tab=resolutions (# 2025-04-)
 # Reference: https://app.validin.com/detail?find=19fe6b1334b2035cedcaa692ac77b550&type=hash&ref_id=f73fc343e2b#tab=host_pairs (# 2024-12-17)
@@ -14170,6 +14246,7 @@ statsalesup.com
 bbpjsuporte.pro
 cdnjsdevcss.com
 cdnjsdvcss.com
+cdnoaistatcs.icu
 chatjsdvcss.com
 chatjssvcss.com
 cspreport.org
@@ -14180,10 +14257,12 @@ fastcdnjs.com
 goljsdofls.com
 goljsdofma.org
 goljsdofmain.com
+iloveveganlongbeach.com
 instaholldatalib.com
 logicwploo.com
 logicwploop.com
 logwplmap.com
+manuchat.icu
 reportcsp.com
 reportjquery.com
 reportjquery.shop
@@ -14196,6 +14275,8 @@ ssreportpro.com
 stylewpcall.com
 stylewpcoll.com
 stylewpoll.com
+syrvival.icu
+toolsmanuanalyzer.live
 
 # Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-09-19-v10698/1991
 
@@ -14804,8 +14885,13 @@ bsjq.online
 bsjq.shop
 bsjq.site
 bsjq.store
+criptosucker.space
+criptosucker.store
 crypto-shop.online
 crypto-shop.site
+cryptosuck.online
+freestylershop.space
+freestylershop.store
 greatsong.online
 isjustone.site
 isjustour.site
@@ -14835,6 +14921,9 @@ jquery.digital
 jquery.monster
 jquery.rest
 mcduckgroup.shop
+megaappshop.space
+megaappshop.store
+megapetshop.space
 net-3admsv.ml
 nightsong.online
 oneadm.space
@@ -14847,6 +14936,12 @@ querysong.online
 thisisourparadise.site
 thisisourparadise.space
 thisisourparadise.store
+thisisourpeace.site
+thisisourpeace.space
+thisisourpeace.store
+thisisourplace.site
+thisisourplace.space
+thisisourplace.store
 
 # Reference: https://x.com/sdcyberresearch/status/1894055884294078800
 
@@ -15504,6 +15599,7 @@ cheaterchat.website
 assurparcel.com
 dellivery-ups.com
 live-info.net
+livechatonbot.com
 navigo-carte.com
 tvilogete.tech
 
@@ -15890,6 +15986,14 @@ kof.one
 box2.kof.one
 mago.kof.one
 
+# Reference: https://x.com/_eremit4/status/1957969714740699221
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.48.1/relations
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.65.136/relations
+
+anl.is
+eqp.is
+snf.is
+
 # Reference: https://x.com/sdcyberresearch/status/1929892055020401016
 
 scripts.peachseo.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.a240ce2a.bundle.min.js
@@ -15910,7 +16014,12 @@ jartrack01.com
 anagi.net
 cdn-server.online
 dorton.org
+frostwarriorsaga.com
 globalmi.net
+magnetice.click
+neonvalley.eu
+pollokingdoms.com
+spectralhavens.com
 support-serv.xyz
 
 # Reference: https://x.com/sdcyberresearch/status/1944696520055378180
@@ -15934,14 +16043,498 @@ mmercadolibre.com
 kk.land
 
 # Reference: https://x.com/sdcyberresearch/status/1947994404901265579
+# Reference: https://app.validin.com/detail?find=141.98.6.103&type=ip4&ref_id=8aeef8d30be#tab=resolutions
 
+backupper.info
 backupper.pro
-brilliantyor.com
+geoterbang.site
 staticpaycloud.com
 
 # Reference: https://www.virustotal.com/gui/ip-address/85.192.27.0/relations
 
 svgstatic.org
+
+# Reference: https://x.com/sdcyberresearch/status/1954917161681457152
+# Reference: https://www.virustotal.com/gui/ip-address/89.208.113.79/relations
+# Reference: https://www.virustotal.com/gui/ip-address/94.140.114.137/relations
+# Reference: https://www.virustotal.com/gui/ip-address/94.140.114.19/relations
+# Reference: https://www.virustotal.com/gui/ip-address/95.164.23.158/relations
+
+elementatorprof.info
+elementatorstati.site
+felalilingena.online
+ghanamusthi.xyz
+jsanalytic.cloud
+jscode.cloud
+jsstat.cloud
+orristhekyone.site
+neritetarnerbi.xyz
+ppheaimondon.site
+wsocket.store
+
+# Reference: https://x.com/csideai/status/1948802854308782471
+# Reference: https://app.validin.com/detail?type=hash&find=0e829cc271bdcdfe9b25c06d9ae10c7a#tab=host_pairs (# 2025-08-15)
+# Reference: https://app.validin.com/detail?find=6f98e7ef8dc5672e4f85e84c7d68d6b2&type=hash&ref_id=c4e3993f306#tab=host_pairs (# 2025-08-15)
+# Reference: https://app.validin.com/lookalikes?limit=1000&lookback=90&depth=2&find=%2F%5E%5Ba-z%5D%7B0%2C%7Dmeriks%5Ba-z%5D%2B%5C.top%24%2F (# 2025-08-15)
+
+antimeriksbuy.top
+bananapixel.top
+damagepixel.top
+emberpixel.top
+errormeriks.top
+fishpixelnow.top
+followmeriksshop.top
+garrypixelpotter.top
+goldenmeriksapple.top
+heimerikszenit.top
+histonmeriks.top
+hornypixel.top
+kezmeriksfight.top
+makvinpixel.top
+manymeriks.top
+meriksalienspace.top
+meriksbanormute.top
+meriksbarierz.top
+meriksbattle.top
+meriksbeginsmart.top
+meriksbmw.top
+meriksbrobronze.top
+merikscanditation.top
+merikscanuseeme.top
+merikschecked.top
+merikscheriks.top
+meriksconditioner.top
+meriksdawnwest.top
+meriksdjonsina.top
+meriksferious.top
+meriksfreefire.top
+meriksgalaxytv.top
+meriksgamecs.top
+meriksgivechance.top
+meriksglobalelite.top
+meriksglobusmore.top
+meriksgoblinnike.top
+meriksgoblinsquad.top
+merikshaisenberg.top
+meriksiceger.top
+meriksimbalance.top
+meriksitiliano.top
+merikslimons.top
+meriksmanager.top
+meriksmercedes.top
+meriksmoonsun.top
+meriksnewplayer.top
+meriksnewstuff.top
+meriksoldmoney.top
+meriksonevsone.top
+meriksoperstyle.top
+merikspentruzeche.top
+meriksplatinum.top
+meriksquattro.top
+meriksrainstreet.top
+meriksralph.top
+meriksrespondeble.top
+meriksscouteronly.top
+meriksscream.top
+merikssearchglobal.top
+merikssecondtimer.top
+meriksseshka.top
+meriksshadowfiend.top
+meriksshedule.top
+meriksshikflow.top
+meriksshmeriks.top
+merikssimplegood.top
+meriksslaimuper.top
+meriksslowlyemotion.top
+merikssmackthat.top
+merikssmarttvchese.top
+merikssmothing.top
+merikssmurfik.top
+merikssnowbord.top
+merikssnowfails.top
+merikssnowfollballs.top
+merikssporttvshow.top
+merikssrezforme.top
+meriksstandart.top
+meriksstantion.top
+meriksstarbucks.top
+meriksstaylife.top
+meriksstreamer.top
+merikstoppalace.top
+merikstranki.top
+meriksvalentineday.top
+meriksviber.top
+meriksvilverelite.top
+meriksvinusuela.top
+meriksxenonlight.top
+meriksyoutuber.top
+merikszaimckerits.top
+millionpixel.top
+pixelbronestill.top
+pixelcrocodile.top
+pixelelephant.top
+pixelitpedia.top
+pixellaser.top
+pixelnomad.top
+pixelnonefoll.top
+pixelnothingrich.top
+pixelnotinggo.top
+pixelnotworking.top
+pixelnovanddec.top
+pixelnovarank.top
+pixelnovember.top
+pixelnowchange.top
+pixelnowcheked.top
+pixelnowrestart.top
+pixelnowsearchae.top
+pixelnowsellerorbuyer.top
+pixelreqiuemfast.top
+pixelskodaoctavia.top
+pixelslowermode.top
+rainbowpixel.top
+saimonpixel.top
+teampixelspeak.top
+twomeriksone.top
+utilitymeriks.top
+wowmerikswoman.top
+yorumerikschannel.top
+zaimmeriks.top
+
+# Reference: https://x.com/sdcyberresearch/status/1960679898021806340
+# Reference: https://app.validin.com/detail?find=d6bc8c6022d37ffd6acbbb53e200e714&type=hash&ref_id=6f40c2b0525#tab=host_pairs (# 2025-08-27)
+# Reference: https://app.validin.com/detail?find=829d74aa5bdd9687b61b062aca432811&type=hash&ref_id=6f40c2b0525#tab=host_pairs (# 2025-08-27)
+
+ajax-jquery.com
+bf-core.com
+c-ads.net
+cloud-ajax.com
+partywirks.club
+paysafe.global
+sale5shop.com
+sale7shop.com
+wrist-sale.com
+www-static.com
+7064b8afd9509a0f.b-cdn.net
+ads.cdn-f.net
+asd1.lazyno1.net
+hostmaster.c-ads.net
+mail.partywirks.club
+tws.cdn-f.net
+
+# Reference: https://x.com/sdcyberresearch/status/1962465392636383380
+# Reference: https://www.virustotal.com/gui/domain/cdn-f.net/relations
+
+cdn-f.net
+ssl.cdn-f.net
+
+# Reference: https://x.com/sdcyberresearch/status/1965014900562133381
+# Reference: https://app.validin.com/detail?find=1db0a111dde8011b8e8d76fafadb0e02&type=hash&ref_id=1e46789fd1d#tab=host_pairs (# 2025-09-08)
+
+artistyhub.com
+datasetboost.com
+digitalldawn.com
+graphistat.com
+marketedweb.com
+marketiapro.com
+mystatisic.com
+onlinedefenceshield.com
+sallesnxt.com
+selideck.com
+selledgehub.com
+sellorashop.com
+sellsparkw.com
+statrisse.com
+statspots.com
+stattmark.com
+webstatusis.com
+wessist.com
+wiesestat.com
+wwwgyoutube.com
+
+# Reference: https://x.com/sdcyberresearch/status/1965736554820739163
+
+e31692e26753a0cb.b-cdn.net
+
+# Reference: https://x.com/sdcyberresearch/status/1967530667019010127
+
+cc-analytics.com
+cc-analytis.com
+getejs.com
+getnjs.com
+getvjs.com
+i-statics.com
+itstatics.com
+jgetjs.com
+jstatics.com
+ostatics.com
+pstatics.com
+qstatics.com
+rstatics.com
+sstatics.com
+ustatics.com
+util-analytics.com
+utilanalytics.com
+wstatics.com
+youtuber-dashboardwme.pro
+ystatics.com
+accounts.youtuber-dashboardwme.pro
+api.sstatics.com
+
+# Reference: https://x.com/sdcyberresearch/status/1968293903712539006
+# Reference: https://app.validin.com/detail?find=6cd5b8b194c15542c2610a34dd25f8bd&type=hash&ref_id=d2e03137ed9#tab=host_pairs (# 2025-09-17)
+
+chatsup.us
+hotapps.app
+hubsport.io
+imgwick.net
+pcapredict.pro
+rainb.io
+regnapps.app
+roadtheapp.com
+schemaapp.pro
+shiftshops.app
+511.schemaapp.pro
+app.hubsport.io
+cdn.hotapps.app
+claim.imgwick.net
+f.shiftshops.app
+state.pcapredict.pro
+store.rainb.io
+store.roadtheapp.com
+
+# Reference: https://x.com/sdcyberresearch/status/1975162966082228471
+
+css-animations.online
+uesrghawg.info
+uesrghwg.info
+cdn.uesrghawg.info
+click.uesrghwg.info
+style.css-animations.online
+
+# Reference: https://x.com/_eremit4/status/1976050532021420314
+# BANNER_0_HASH-HOST=9fc453fd20645c4628d9ce386ffcbf5d
+# BANNER_0_HASH-HOST=df1fb9c560251dae625583d67ef1639b
+
+googletegmaneger.com
+myconvertr.com
+cdn-googlemanager.com
+secure-endpoint-v2.com
+cdn.myconvertr.com
+
+# Reference: https://x.com/sdcyberresearch/status/1980619281361436948
+# Reference: https://www.virustotal.com/gui/ip-address/76.223.26.96/relations
+# Reference: https://www.virustotal.com/gui/file/cede310567508275b775bfa4d170c3e20a0faf0124b31c975c5360dcce620c31/detection
+# BANNER_0_HASH-HOST=a70f9384abe7996ab2389f10626f2466
+# BANNER_0_HASH-HOST=e19097712f322a4d5b065303d87fc89f
+
+cdnstring.com
+npqam.com
+objectst.in
+thawte.cam
+tmdate.com
+tmstring.com
+
+# Reference: https://www.volexity.com/blog/2021/12/07/xe-group-exposed-8-years-of-hacking-card-skimming-for-profit/
+# Reference: https://github.com/volexity/threat-intel/blob/main/2021/2021-12-06%20-%20XEGroup/indicators/indicators.csv
+
+addthiis.com
+addthiis.net
+adfs.xegroups.com
+amazon.xegroups.com
+baucua.com
+buygetdiscount.com
+ccn.xegroups.com
+cf.addthiis.com
+dongtanphat.com
+email.paycashs.com
+emvnhim.com
+ftp.paycashs.com
+ftp.xework.com
+guiquare.com
+hegpt.com
+imap.xegroups.com
+loinhuancao.com
+mail.paycashs.com
+mail.restapi.xegroups.com
+mail.xegroups.com
+mail.xeminer.com
+mail.xework.com
+mylanshop.com
+noithatgiare.com
+ns1.paycashs.com
+ns1.restapi.xegroups.com
+ns1.subinput.com
+ns1.xegroups.com
+ns1.xeminer.com
+ns1.xework.com
+ns2.amazon.xegroups.com
+ns2.object.fm
+ns2.paycashs.com
+ns2.xegroups.com
+ns2.xeminer.com
+ns2.xework.com
+object.fm
+object.sbs
+paycashs.com
+restapi.xegroups.com
+s7.addthiis.com
+sanmuaban.com
+sanmuaban.net
+secure.subinput.com
+subinput.com
+va00.addthiis.com
+vhimne.com
+vp2-addthiis.com
+webmail.object.fm
+webmail.paycashs.com
+webmail.xegroups.com
+woodofvietnam.com
+xeadult.com
+xedob.com
+xegroups.com
+xemembers.com
+xeminer.com
+xeson.net
+xework.com
+ajax.googleapis.com.hivnd.com
+google-analytics.com.hivnd.com
+ns1.hivnd.com
+ns2.hivnd.com
+verify.authorize.net.hivnd.com
+
+# Reference: https://x.com/sdcyberresearch/status/1983483103902613894
+
+discord.com/api/webhooks/1354279778441629867/
+
+# Reference: https://x.com/sdcyberresearch/status/1985331962660167993
+
+m-stripe.vercel.app
+
+# Reference: https://www.virustotal.com/gui/file/b009cec84e7471ea648d7331e81b9c931c2cd58e671fcd8dd1a32a546982d9ae/detection
+# Reference: https://www.virustotal.com/gui/file/8855e2c8a722e1520c33ecfa9962b07d919f75514479dc60243af956f1ae1887/detection
+# Reference: https://www.virustotal.com/gui/file/011244520d9adddd83830759311619a2af9cb6430c8627c782dea7ad1533e486/detection
+
+elementorupdate.live
+
+# Reference: https://www.virustotal.com/gui/ip-address/194.165.16.54/relations
+
+dataconnector.online
+inovationsolution.info
+
+# Reference: https://x.com/sdcyberresearch/status/1990727780405850278
+# BANNER_0_HASH-HOST=bef0b5382eca3552499158187a405a95
+
+artisttrydata.com
+foxicpeak.com
+hiviefox.com
+metrixinsig.com
+mttrcs.com
+salecrafft.com
+smsboxs.com
+worokshub.com
+zenithneest.com
+
+# Reference: https://x.com/sdcyberresearch/status/1992995764625457218
+
+jsdelijsm.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.46.131/relations
+
+shy.is
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.37.208/relations
+
+1x0.is
+
+# Reference: https://x.com/sdcyberresearch/status/1994067832888517096
+# CLASS_0_HASH-HOST=56dc27d059527bb852b24e11194d78ff
+
+artrocoach.com
+cspreported.com
+japangomenu.com
+shoeptpopular.com
+xrenchick.com
+
+# Reference: https://x.com/sdcyberresearch/status/1995441432149319762
+# Reference: https://www.virustotal.com/gui/ip-address/38.180.142.89/relations
+# Reference: https://app.validin.com/detail?type=dom&find=shipping.js#tab=host_pairs (# 2025-12-04)
+
+analyzerai.icu
+livechatorg.com
+onlinechatmatrix.online
+onlinechatmatrix.store
+onlinechatmatrix.xyz
+onlinechatmatrix․xyz
+onlinesupportmatrix.org
+onlinesupportmatrix.support
+onlinesupportmatrix.xyz
+onlinesupportmatrix․support
+requiresys.icu
+
+# Reference: https://x.com/sdcyberresearch/status/2001277909835591854
+# BANNER_0_HASH-HOST=98e438289789a00d0f1bfede7412f25f
+
+design.nday.net
+wireframe.nday.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/176.65.144.144/relations
+
+applclickanalytics.com
+
+# Reference: https://x.com/sdcyberresearch/status/2003811306848362919
+
+hyperstat.shop
+ixopt.pics
+sirsmile.cv
+tetraga.online
+u2speed.site
+virtustat.shop
+vw-cars.top
+wvxmas.top
+
+# Reference: https://x.com/sdcyberresearch/status/2005621112898548175
+
+analyticsamazing.info
+basestatos.com
+bitbaystats.com
+bootstatseven.com
+bootstrap-sdn.com
+cdn-htojar.com
+claritycrown.com
+clearprint.tech
+cloudframestat.com
+cloudlstatics.com
+fbfromstat.com
+ftp-opencart.com
+googledriveanalytice.com
+googlemanageranalytic.com
+gtm-analyticsdn.com
+hotanalytic.com
+iframemetric.com
+jquarystatistic.com
+jquery-boots.com
+jquery-hoster.com
+jquery-minical.com
+jquery-stupify.com
+jquery-tech.com
+jstreecommon.com
+ninebasec.com
+primestatics.com
+rtc-forms.com
+rtc-info.com
+sdn-jquary.com
+sdn-optima.com
+sdn-starstair.com
+sdn-veryfy.com
+shfeeds.com
+ssa-conections.com
+staticsinfo.com
+statisticmanager.com
+statistoinf.info
+stiticlouds.com
+supluyers.com
+tryanalitics.com
+jquery.googlemanageranalytic.com
 
 # Generic
 

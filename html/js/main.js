@@ -56,7 +56,7 @@ var SEARCH_TIP_TIMER = 0;
 var DRAW_SPARKLINES_TIMER = 0;
 var PAPAPARSE_COMPLETE_TIMER = 0;
 var REPORT_URL = "http://23.254.203.53/report.php"  // NOTE: Right click / Report false positive
-var SEARCH_TIP_URL = "https://searx.baczek.me/search?q=${query}"
+var SEARCH_TIP_URL = "https://www.vincentde.com/search?q=${query}"
 
 //var SEARCH_TIP_URL = "https://www.searchencrypt.com/search/?q=%22${query}%22";        // Reference: https://kinsta.com/blog/alternative-search-engines/
 //var SEARCH_TIP_URL = "https://duckduckgo.com/?q=${query}";
@@ -105,6 +105,13 @@ window.onkeydown = function(event) {
 window.onkeyup = function(event) {
     CTRL_CLICK_PRESSED = false;
 };
+
++// Handle window resize to adjust table
+$(window).resize(function() {
+    if (typeof $.fn.dataTable !== 'undefined') {
+        $('#details').DataTable().columns.adjust();
+    }
+});
 
 // Retrieve (and parse) log data
 $(document).ready(function() {
@@ -235,8 +242,11 @@ function initDialogs() {
 
     $("#login_link").click(function() {
         $("body").loader("hide");
-        if ($("#login_dialog").length === 0)
-            $('<div id="login_dialog" background-color: red" title="Authentication"><table><tbody><tr><td style="display: inline-block !important">Username:</td><td style="display: inline-block !important"><input id="username" name="username"></td></tr><tr><td style="display: inline-block !important">Password:</td><td style="display: inline-block !important"><input id="password" name="password" type="password" autocomplete="off"></td></tr></tbody></table></div>').appendTo('body').dialog(options);
+        if ($("#login_dialog").length === 0) {
+            $('<div id="login_dialog" title="Authentication"><table><tbody><tr><td style="display: inline-block !important">Username:</td><td style="display: inline-block !important"><input id="username" name="username"></td></tr><tr><td style="display: inline-block !important">Password:</td><td style="display: inline-block !important"><input id="password" name="password" type="password" autocomplete="off"></td></tr></tbody></table></div>').appendTo('body').dialog(options);
+        } else {
+            $("#login_dialog").dialog("open");
+        }
         $("#login_dialog input").val("");
         $("#login_dialog").dialog("open")
         .keyup(function(e) {
@@ -767,6 +777,12 @@ function init(url, from, to) {
                 for (var threat_text in _THREATS) {
                     var threatUID = getThreatUID(threat_text);
                     var threat_data = _THREATS[threat_text];
+
+                    // Skip invalid threat data
+                    if (!threat_data || threat_data.length < 5) {
+                        continue;
+                    }
+
                     var count = threat_data[0];
                     var times = threat_data[1];
                     var minTime = threat_data[2];
@@ -986,6 +1002,9 @@ function makeMask(bits) {
 }
 
 function netmaskValidate(netmask) {
+    if (!netmask || typeof netmask !== 'string') {
+        return false;
+    }
     var match = netmask.match(/^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\/\d{1,2}$/);
     return match !== null;
 }
@@ -998,7 +1017,7 @@ function searchTipToTab(query) {
         // Browser has allowed it to be opened
         win.focus();
     } else {
-        // Broswer has blocked it
+        // Browser has blocked it
         alert('Please allow popups for this site');
     }
 }
@@ -1063,10 +1082,13 @@ function tagInputKeyUp(event, forcedelete) {
 
         data[DATATABLES_COLUMNS.TAGS] = tagData;
 
-        try {                           // dirty patch for #14900 (reproducible on Chromium - blur being thrown after the Enter has been processed)
-            row.invalidate();
-        }
-        catch(err) {
+        // dirty patch for #14900 (reproducible on Chromium - blur being thrown after the Enter has been processed)
+        try {
+            if (row && typeof row.invalidate === 'function') {
+                row.invalidate();
+            }
+        } catch(err) {
+            console.log("Table redraw issue:", err.message);
         }
 
         api.draw(false);
@@ -1945,12 +1967,20 @@ function initDetails() {
 }
 
 function generateNonce() {
-    var retval = "";
-
-    for(var i = 0; i < NONCE_LENGTH; i++)
-        retval += NONCE_ALPHABET.charAt(Math.floor(Math.random() * NONCE_ALPHABET.length));
-
-    return retval;
+    if (window.crypto && window.crypto.getRandomValues) {
+        const array = new Uint32Array(1);
+        const result = [];
+        for (let i = 0; i < NONCE_LENGTH; i++) {
+            crypto.getRandomValues(array);
+            result.push(NONCE_ALPHABET.charAt(array[0] % NONCE_ALPHABET.length));
+        }
+        return result.join('');
+    } else {
+        let retval = "";
+        for(let i = 0; i < NONCE_LENGTH; i++)
+            retval += NONCE_ALPHABET.charAt(Math.floor(Math.random() * NONCE_ALPHABET.length));
+        return retval;
+    }
 }
 
 String.prototype.hashCode = function() {

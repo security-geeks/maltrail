@@ -5598,3 +5598,11 @@ ddns.cam
 # Reference: https://www.virustotal.com/gui/domain/cesy.top/relations
 
 cesy.top
+
+# Reference: https://x.com/L0Psec/status/1991910497663562045
+
+mexc.work
+
+# Reference: https://www.virustotal.com/gui/ip-address/54.92.96.88/relations
+
+blc-p.co

@@ -2578,6 +2578,79 @@ Microsoft Edge/1.0
 
 OnlyScans
 
+# Reference: https://x.com/naumovax/status/1939722076262203490
+
+DataSender
+Zephyr-Downloader
+
+# Reference: https://x.com/1ZRR4H/status/1958181978479419430
+
+BQTLock
+BQTLockClient
+
+# Reference: https://x.com/abuse_ch/status/1971574897521336553
+
+Kamasers
+Kamasers C2 Client
+System Updater/5.0
+
+# Reference: https://x.com/AzakaSekai_/status/1969294757978652947
+
+HijackBot
+
+# Reference: https://x.com/YungBinary/status/1981108948498333900
+
+Custom C++
+Custom C++ HTTP Client/1.0
+
+# Reference: https://x.com/suyog41/status/1992864031208784381
+
+MinerAlert
+
+# Reference: https://www.elastic.co/security-labs/nanoremote
+
+NanoRemote
+NanoRemote/1.0
+
+# Reference: https://x.com/malwrhunterteam/status/1999821671012680105
+
+We deadass
+deadass
+
+# Reference: https://www.zscaler.com/blogs/security-research/zscaler-threat-hunting-catches-evasive-sidewinder-apt-campaign
+
+TimeClient/1.0
+work/1.0
+
+# Reference: https://x.com/smica83/status/2002493152641585438
+# Reference: https://x.com/malwrhunterteam/status/2002494903113429404
+
+\bUA WindowsPowerShell\b
+
+# Reference: https://x.com/suyog41/status/2003348466559574056
+
+MiraiSystem
+MiraiSystem/1.0
+
+# Reference: https://x.com/SquiblydooBlog/status/2003531990717596171
+# Reference: https://www.virustotal.com/gui/file/88954524b8e24acad13d00e1bb66f6cd437df1039087945ff1b010f9c217c1fa/detection
+
+TrashAgent
+TrashAgent/1.0
+
+# Reference: https://x.com/suyog41/status/2006987043113726040
+
+NebulaStub
+NebulaStub/1.0
+
+# Reference: https://tria.ge/251123-s612zstjgn/behavioral2
+
+nfjjlx
+
+# Reference: https://tria.ge/251125-17gczaak31/behavioral2
+
+vabundanceVOI
+
 # Misc
 
 information_schema
